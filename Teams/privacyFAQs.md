@@ -12,7 +12,7 @@ With [Teams for Education](https://repl.it/teams) and Private Invites, you can c
 
 When you share that link (for example by emailing it outside of Repl.it to your students or by pasting the link into your LMS or curriculum), then we will not ask students to provide names, emails, or other personal information when they sign up. Neither you nor the students will need to provide us with that information. Students will also have view-only access to the [Repl Talk forum](https://repl.it/talk/all), so they can still see all the great content, guides, and tutorials from the community, while protecting their privacy.
 
-![private invite](https://blog.repl.it/images/teams_edu/privateinvite.png)
+![private invite](/images/teamsForEducation/privacy-invite-tooltip.png)
 
 **What data does Repl.it collect about students through Teams for Education?**
 

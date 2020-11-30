@@ -18,13 +18,13 @@ Alternatively you can use our guides to integrate with ReplGrader.com which is a
 ### Python autograding guides
 
 - [Simple autograding](./SimpleAutograding)
-- [Fully automated autograding](./CentralizedAutograder)
-- [Autograding with replgrader.com](./CentralizedAutograder)
+- [Fully automated autograding](./CentralizedAutograder) or [Quickstart Guide](CentralizedAutograderQuickstart)
+- [Autograding with replgrader.com](./ReplGraderQuickstart)
 
 ### Java autograding guides
 
 - [Simple autograding](./SimpleAutograding-java)
-- [Fully automated autograding](./CentralizedAutograder-java)
+- [Fully automated autograding](./CentralizedAutograder-java) or [Quickstart Guide](CentralizedAutograderQuickstart-java)
 
 ## Example homework assignments
 

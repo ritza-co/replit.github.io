@@ -1,13 +1,12 @@
+# Team roles
 
-## Different Roles 
+You can assign different members of your team different roles.
 
+* **Member:** This is the default role and best for students or other people who don't need special access.
+* **Admin:** This is for Teachers, TA's, etc. It is meant for anyone that will be creating assignments and grading.
+* **Billing admin:** This is for the person who created the team or anyone will manage payments for the team.
 
-Member -> This is anyone that gets invited is immediately given this role. They are essentially a student.
+You can assign roles to members who are part of your team by navigating to your [team dashboard](https://repl.it/teams) and choosing "manage members"
 
-admin -> This is for Teachers, TA's, etc. It is meant for folks that will be creating assignments and grading.
+<img src="/images/teamsForEducation/team-roles.png" />
 
-billing admin -> This is for whoever creates the team and/or will take on the role of paying for the team.
-
-## Assign Roles
-
-This happens under Teammates. You will see a manage members link there which should open up a modal. In the modal next to each user you can assign the different roles.
